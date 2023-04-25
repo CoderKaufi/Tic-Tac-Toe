@@ -1,8 +1,14 @@
 .field {
   width: 40px;
   height: 40px;
-  background-color: black;
+  background-color: wheat;
   margin: 3px;
+}
+.X {
+  background-color: black;
+}
+.O {
+  background-color: red;
 }
 .line {
   display: flex;
